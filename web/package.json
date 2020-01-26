@@ -12,7 +12,7 @@
     "jquery": "^3.2.1",
     "jquery.terminal": "^1.5.0",
     "line-reader": "^0.4.0",
-    "moment": "^2.18.1",
+    "moment": "^2.19.3",
     "multer": "^1.3.0",
     "node-gyp": "",
     "request": "",
