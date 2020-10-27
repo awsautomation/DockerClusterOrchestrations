@@ -23,7 +23,7 @@
     "request": "",
     "request-debug": "",
     "sys": "",
-    "systeminformation": "^3.45.6",
+    "systeminformation": "^4.27.11",
     "unzip-stream": ""
   }
 }
