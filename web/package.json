@@ -7,7 +7,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "exec": "",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "font-logos": "git+https://github.com/Lukas-W/font-logos.git",
     "jquery": "^3.2.1",
     "jquery.terminal": "^1.5.0",
